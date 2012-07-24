@@ -1,1 +1,1 @@
-source test.sh
+source $package_path/test.sh
